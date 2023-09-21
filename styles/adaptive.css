@@ -310,7 +310,9 @@
         width: 95%;
         max-width: 1262px;
     }
-
+    footer .section-wrap{
+        padding: 0 !important;
+    }
     footer .inner-wrap{
         flex-direction: row;
         padding-top: 240px !important;

@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Disallow:
+Allow: /
+Sitemap: https://ruslantuz.github.io/web-practice/5889118_104.xml
